@@ -1,6 +1,7 @@
 import funcs
 
-print(funcs.add(8, 9))
+print(funcs.subtrack(8, 5))
+
 
 
 
