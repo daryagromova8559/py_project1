@@ -1,2 +1,2 @@
-total = (20-14)
-print(total)
+def add(a, b):
+    return a+b
