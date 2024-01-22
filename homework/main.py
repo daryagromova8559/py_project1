@@ -1,3 +1,7 @@
 import funcs
 
-print(funcs.add())
+print(funcs.add(8, 9))
+
+
+
+
